@@ -1,0 +1,10 @@
+# Core dependencies
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+ultralytics>=8.0.0
+python-chess>=1.9.0
+pyserial>=3.5
+
+# Optional: for better Stockfish integration
+# stockfish (Python wrapper) - optional, chess.engine is included in python-chess
